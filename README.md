@@ -8,7 +8,7 @@ Install [MATLAB](https://in.mathworks.com/help/install/install-products.html) on
 
 ## Simulation
 
-You can find the Project report and simulation [HERE]().
+You can find the Project Report and Simulation [HERE]().
 
 ## Contributors
 This project was made as a End Semester Component for the course "Image Processing Using MATLAB" in the second year by students of PES University. Pull requests for open source contribution are welcome.
